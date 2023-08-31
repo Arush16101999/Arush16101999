@@ -1,10 +1,12 @@
 ## 👋 Hi, I’m Arushan Manoharan !
 
-- 🎓 I’m currently undertaking my Bachelor's Degree in Sotware Engineering at Informatics Institute of Technology | University of Westminster.
+- 🎓 Completed BEng(Hons) in Software Engineering at Informatics Institute of Technology | University of Westminster.
 - 👨🏼‍💻 I’m looking for a Software Engineer position to establish myself as a skilful Software Engineer.
 - 👀 I’m interested in Front End Development , UI/UX , IOS development
 - 📫 How to reach me arushmano@gmail.com
 - ✨ Fun fact: I love to do dance and travelling
+
+Linkedin - https://www.linkedin.com/in/arushan-manoharan-a9a534198/
 
 ### Languages and Tools:
 
