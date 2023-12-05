@@ -2,7 +2,7 @@
 
 - 🎓 Completed BEng(Hons) in Software Engineering at Informatics Institute of Technology | University of Westminster.
 - 👨🏼‍💻 I’m looking for a Software Engineer position to establish myself as a skilful Software Engineer.
-- 👀 I’m interested in Front End Development , UI/UX , IOS development
+- 👀 I’m interested in Front End Development , UI/UX , ReactJS
 - 📫 How to reach me arushmano@gmail.com
 - ✨ Fun fact: I love to do dance and travelling
 
