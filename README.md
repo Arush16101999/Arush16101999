@@ -7,6 +7,7 @@
 - ✨ Fun fact: I love to do dance and travelling
 
 Linkedin - https://www.linkedin.com/in/arushan-manoharan-a9a534198/
+Portfolio - https://arushan-manoharan-portfolio.netlify.app/
 
 ### Languages and Tools:
 
