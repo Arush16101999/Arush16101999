@@ -2,7 +2,7 @@
 
 - 🎓 BEng(Hons) in Software Engineering with Industrial Placement from Informatics Institute of Technology | University of Westminster.
 - 👨🏼‍💻 I’m looking for a Software Engineer position to establish myself as a skilful Software Engineer.
-- 👀 I’m interested in Full-Stack, Front-end, UI/UX , ReactJS, Node.js
+- 👀 I’m interested in Full-Stack, Front-end, UI/UX , ReactJS, Node.js & Spring Boot
 - 📫 How to reach me arushmano@gmail.com
 - ✨ Fun fact: I love to do dance and travelling
 
